@@ -1,7 +1,7 @@
 # HelloWorld-Java
 
-Technology Used
-.Eclipse
+## Technology Used
+* Eclipse
 
-Summary
-Intro to java , created Hello World app testing classes , strings , and loops . 
+## Summary
+* Intro to java , created Hello World app testing classes , strings , and loops . 
