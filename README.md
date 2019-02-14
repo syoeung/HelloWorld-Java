@@ -1,2 +1,7 @@
 # HelloWorld-Java
-Using Eclipse to create Hello World ; first start to Java
+
+Technology Used
+.Eclipse
+
+Summary
+Intro to java , created Hello World app testing classes , strings , and loops . 
